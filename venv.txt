@@ -1,0 +1,5 @@
+    Installed packages
+
+numpy
+matplotlib
+
